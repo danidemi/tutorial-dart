@@ -4,3 +4,7 @@ Every package has a pubspec, a file named pubspec.yaml, in the root directory of
 
 Once you’ve run pub get, pub upgrade, or pub downgrade on the package, you will also have a lockfile, named pubspec.lock.
 If your package is an application package, this will be checked into source control. Otherwise, it won’t be.
+
+https://pub.dartlang.org/packages/browser
+About
+The bootstrap dart.js script for Dart apps running in the browser.
