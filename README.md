@@ -1,2 +1,2 @@
 # tutorial-dart
-Dart tutorial
+Examples for Dart tutorial.

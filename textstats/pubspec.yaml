@@ -1,0 +1,7 @@
+name: textstats
+version: 1.2.3
+description: >
+  Example about a webapp showing you text statistics.
+author: Daniele Demichelis <daniele.demichelis@gmail.com>
+homepage: https://github.com/danidemi/tutorial-dart
+documentation: https://github.com/danidemi/tutorial-dart

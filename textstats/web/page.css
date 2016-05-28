@@ -1,0 +1,12 @@
+body {
+    background: #111;
+}
+
+textarea {
+    background: #AAA;
+}
+
+#statistics {
+    background: #111;
+    color: white;
+}
